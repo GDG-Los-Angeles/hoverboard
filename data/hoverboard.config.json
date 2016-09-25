@@ -7,7 +7,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG Los Angeles DevFest 2016",
           "youtubeId": "DfMnJAzOFng",
           "text": "See how it was in 2015"
         },
@@ -86,8 +86,8 @@
       "key": "en"
     },
     {
-      "name": "Українська",
-      "key": "uk"
+      "name": "Espanol",
+      "key": "es"
     }
   ],
   "footerBlocks": [
@@ -149,12 +149,12 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://www.paypal.me/gdgla/30",
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 15,
+        "currency": "$",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
@@ -162,17 +162,17 @@
       },
       {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 20,
+        "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 30,
+        "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
@@ -183,12 +183,12 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 400,
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
+      "counter": 1,
+      "caption": "day"
     },
     {
       "counter": 30,
@@ -199,11 +199,11 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "dfla",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
+      "nickname": "GDGLA",
       "url": "https://twitter.com/gdglviv"
     },
     {
@@ -213,8 +213,8 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGLA",
+      "url": "https://www.facebook.com/GDGLA"
     },
     {
       "name": "linkedin",
