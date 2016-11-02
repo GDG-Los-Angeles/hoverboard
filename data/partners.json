@@ -1,11 +1,34 @@
 [
   {
-    "title": "template-creator",
+    "title": "platinum-partner",
     "logos": [
       {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "name": "Google",
+        "url": "https://www.google.com",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "gold-partner",
+    "logos": [
+      {
+        "name": "Clover",
+        "url": "https://www.clover.com/",
+        "logoUrl": "../images/logos/clover_primary_gray_rgb.png",
+        "width": 170
+      },
+      {
+        "name": "MK Partners",
+        "url": "https://www.mkpartners.com/",
+        "logoUrl": "../images/logos/mk-partners.png",
+        "width": 170
+      },
+      {
+        "name": "Valley Tech Center",
+        "url": "http://www.valleytechcenter.com/",
+        "logoUrl": "../images/logos/valley_tech_center.png",
         "width": 170
       }
     ]
@@ -14,59 +37,9 @@
     "title": "general-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
       }
     ]
   }

@@ -1,54 +1,39 @@
 [
   {
-    "title": "Core Team",
+    "title": "Organizers",
     "members": [
       {
         "name": "Matt Kaufman",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "photoUrl": "/images/people/matt_kaufman.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+MattKaufman1",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/matt_kman",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Website and sponsors"
-      },
-      {
-        "name": "Gerard Cordero",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
+        "title": "Website, Venue, and Sponsors"
       },
       {
         "name": "Lisa Borel",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "photoUrl": "/images/people/lisa_borel.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+LisaBorel",
+            "name": "Google+"
+          }
+        ],
+        "title": "Speakers"
+      },
+      {
+        "name": "Gerard Cordero",
+        "photoUrl": "/images/people/gerard_cordero.webp",
         "socials": [
           {
             "icon": "linkedin",
@@ -66,134 +51,26 @@
             "name": "Blog"
           }
         ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Krystal Maughan",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Emily Lam",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
         "title": "Sponsors"
-      },
-      {
-        "name": "Maria Ashna",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Speakers"
       }
     ]
   },
   {
-    "title": "Program Committee",
+    "title": "Event Team",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "name": "Emily Lam",
+        "photoUrl": "/images/people/emily_lam.webp",
         "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
         ],
-        "title": "Cloud stream"
+        "title": ""
       },
       {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Krystal Maughan",
+        "photoUrl": "",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
         ],
-        "title": "Android Stream"
+        "title": ""
       }
     ]
   }

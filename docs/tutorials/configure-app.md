@@ -35,12 +35,12 @@ meta data in `index.html`
 ```
 <head>
   <meta name="description"
-        content="The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts">
+        content="The biggest Google tech conference in Southern California carefully crafted for you by GDG Los Angeles! All about Android, Web and Cloud from the world experts">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
-  <meta name="author" content="GDG Lviv">
+  <meta name="author" content="GDG Los Angeles">
 
-  <title>GDG DevFest Ukraine 2016</title>
+  <title>GDG Los Angeles DevFest 2016</title>
   ...
 ```
 
@@ -68,7 +68,7 @@ window.ENV = 'dev';
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 2016",
+        "title": "GDG Los Angeles DevFest 2016",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },
@@ -120,6 +120,21 @@ And in navigation
 ```
 
 This configs reflects in `toolbar-block.html` and `drawer-block.html`
+
+### Tweets
+```
+"tweetsSource": "/data/tweets.json",
+```
+To make it more dynamic use [Tweetledee](http://chrissimpkins.github.io/tweetledee/)
+which provides ready-bake PHP files that allow you to access Twitter user
+timelines, user favorites, lists, home timelines, and tweet search data in a JSON.
+```
+"tweetsSource": "https://<YOUR_APP>.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
+```
+You can install Tweetledee on [Heroku](https://www.heroku.com/).
+Download the latest version of Tweetledee; unzip and deploy on their server.  
+**Note:** don't forget to enable CORS, changing `$TLD_JS = 0;` to `$TLD_JS = 1;`.  
+Read [full documentation](http://chrissimpkins.github.io/tweetledee/) on the official website.
 
 
 # Next steps

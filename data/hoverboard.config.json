@@ -75,10 +75,10 @@
   ],
   "url": "https://hoverboard.firebaseapp.com/",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://gdgla.us14.list-manage.com/subscribe/post?u=c8f41c5bf0f8c63cd294b14dd&amp;id=3673adf9c0",
+    "name": "Meetup"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://docs.google.com/presentation/d/1bg9_fd7p42b3veVE65ukx4V6OFQd519VSk_rUGK1ieU/edit?usp=sharing",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
@@ -86,7 +86,7 @@
       "key": "en"
     },
     {
-      "name": "Espanol",
+      "name": "Español",
       "key": "es"
     }
   ],
@@ -108,18 +108,8 @@
           "newTab": true
         },
         {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
           "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "url": "http://devfest2015.gdgla.org",
           "newTab": true
         }
       ]
@@ -129,12 +119,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://docs.google.com/presentation/d/1bg9_fd7p42b3veVE65ukx4V6OFQd519VSk_rUGK1ieU/edit?usp=sharing",
           "newTab": true
         }
       ]
@@ -143,13 +128,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "admin@gdgla.org",
+        "url": "mailto:admin@gdgla.org"
       }
     ]
   },
   "tickets": {
-    "url": "https://www.paypal.me/gdgla/30",
+    "url": "http://devfestla16.eventbrite.com",
     "elements": [
       {
         "name": "student-ticket",
@@ -188,7 +173,7 @@
     },
     {
       "counter": 1,
-      "caption": "day"
+      "caption": "days"
     },
     {
       "counter": 30,
@@ -204,27 +189,27 @@
     {
       "name": "twitter",
       "nickname": "GDGLA",
-      "url": "https://twitter.com/gdglviv"
+      "url": "https://twitter.com/gdgla"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "101561695751862652895",
+      "url": "https://plus.google.com/101561695751862652895"
     },
     {
       "name": "facebook",
       "nickname": "GDGLA",
-      "url": "https://www.facebook.com/GDGLA"
+      "url": "https://www.facebook.com/GDGLosAngeles"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-los-angeles",
+      "url": "https://www.linkedin.com/company/google-developer-group-los-angeles"
     }
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/6FMg9E9bsA4nGQxV9",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -235,15 +220,15 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/LosAngelesCityCollege/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 34.086244,
+      "longitude": -118.294018,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 34.086244,
+      "longitude": -118.294018
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
