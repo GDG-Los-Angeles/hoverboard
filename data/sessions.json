@@ -42,6 +42,19 @@
         "description": "Get your badge, coffee, enjoy talking with sponsors",
         "image": "/images/backgrounds/registration.jpg"
     },
+    "112": {
+        "id": 112,
+        "title": "Hybrid Apps - Your Own Mini-Cordova",
+        "description": "The presentation tackles the subject of hybrid apps, those that mix native content with HTML-based content in Web Views. We motivate the need for such apps and discuss the issues that need to be solved, and in particular the communication back and forth between JavaScript running in a Web View and Java running natively, in case of Android. We go through code samples, both on Android and iOS, and compare the facilities of both platforms. We present a framework that supports hybrid app construction on both platforms.",
+        "speakers": [
+            20
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+          "Android"
+        ]
+    },
     "111": {
         "id": 111,
         "title": "Mobile Deep Links",
@@ -98,11 +111,11 @@
     "107": {
         "id": 107,
         "title": "The Next Gen Web",
-        "description": "After a brief intro to give some context on why mobile web is important, I will cover AMP, and PWA; new technologies to enable app-like experiences and reliable performance on the mobile web. Finally I will cover a less sexy, but relevant topic https. Finally, and totally disconnected from the main topic, I will talk a little bit about our Launchpad program.",
+        "description": "After a brief intro to give some context on why mobile web is important, Paco will cover AMP, and PWA; new technologies to enable app-like experiences and reliable performance on the mobile web. Finally I will cover a less sexy, but relevant topic https. Finally, and totally disconnected from the main topic, I will talk a little bit about our Launchpad program.",
         "speakers": [
             5
         ],
-        "language": "English",
+        "language": "Spanish",
         "complexity": "Intermediate",
         "tags": [
             "AMP",
@@ -137,7 +150,7 @@
     },
     "104": {
         "id": 104,
-        "title": "Kotlin & Java for fun and profit",
+        "title": "Kotlin and Java for fun and profit",
         "description": "Adding Kotlin isn't really that hard. We'll go over the basics of Kotlin, how it can help you, and how you can get started with it in your existing app.",
         "speakers": [
             15
@@ -173,10 +186,10 @@
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
+            "Android",
             "Google Maps",
             "API",
             "JavaScript",
-            "Android",
             "iOS",
             "Cordova",
             "Mobile"

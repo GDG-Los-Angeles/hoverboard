@@ -151,7 +151,9 @@
         "bio": "I am part of Google Developers Ecosystem team, and lead our community, mentors, and startup-related programs for Spanish-speaking LATAM. We foster one of the strongest and cohesive network of leaders, influencers, and partners in Latin America; and together we are helping developers, and startups thrive. From the many activities we support, the many Launchpad events across the region, to our flagship program Google Developers Launchpad Accelerator.",
         "tags": [
             "Spanish",
-            "Entrepreneurship"
+            "Entrepreneurship",
+            "AMP",
+            "Progressive Web Apps"
         ],
         "badges": [
         ],
@@ -313,11 +315,11 @@
             "Android"
         ],
         "badges": [
-        {
-        "name": "GDE",
-        "description": "Google Developer Expert",
-        "link": "https://developers.google.com/experts/"
-        }
+          {
+            "name": "GDE",
+            "description": "Google Developer Expert",
+            "link": "https://developers.google.com/experts/"
+          }
         ],
         "socials": [
             {
@@ -340,7 +342,8 @@
         "bio": "Masashi is a broad-skilled software engineer with both client-side and server-side experience. He loves JavaScript (again for clients and servers), but he also use Java, Python, Objective-C, c++ and others.  As a Google Developer Expert in Japan, Masashi has published three books on the subject of Google Maps API. He's also worked on projects that use Google Maps API(JavaScript) and Google App Engine(Python).  After working in Japan for seven years, Masashi moved to the USA, where he now works with Social Rewards, inc. Here, he's in charge of developing a photo booth which displays real-time composite pictures using Android (Java, and c++) and OpenCV(c++).",
         "tags": [
             "Google Maps API",
-            "Mobile"
+            "Mobile",
+            "Android"
         ],
         "badges": [
             {
@@ -575,6 +578,35 @@
             }
         ],
         "socials": [
+        ]
+    },
+    "20": {
+        "id": 20,
+        "featured": false,
+        "name": "Ayman Mahfouz",
+        "title": "VP, Engineering",
+        "company": "Webalo, Inc.",
+        "companyLogo": "/images/logos/webalo.png",
+        "country": "Los Angeles",
+        "photoUrl": "/images/people/ayman_mahfouz.jpg",
+        "shortBio": "Software was my passion long before it became my profession. I got my first computer back in 5th grade and I was hooked to that 64K RAM Z80...",
+        "bio": "Software was my passion long before it became my profession. I got my first computer back in 5th grade and I was hooked to that 64K RAM Z80! I wrote my first programs in BASIC and became fond of writing games through high school.  I decided to study CS to build a solid foundation for my hobby. During college, I won a couple of programming awards including a national one for a billirads game I wrote in C++. Then, I had some of my games selected for commercial release by a software firm. Since graduating, I have been building enterprise software on various technology stacks, albeit primarily using Java. Recently, I have been focusing on enterprise mobility and IoT.  Over the years, I have used a dozen programming languages. I take a lot of pride in my code. I always look for ways to improve architecture and means to refactor code to make it clean and elegant.  Gradually, as I advanced in my career to senior then principal engineer then to principal then chief architect, I found myself becoming the default go-to person for whatever team I worked in. Not necessarily because my technical knowledge was needed, but also because my judgement was required. I always liked working closely with others and think I have the talent of getting people to work together as a team. This culminated in my appointment as VP of Engineering at Webalo. My style of management is very people-oriented. I believe that development process should be flexible to bring the best out of every individual.  My management role exposed me to new experiences including competitive analysis, product management, business development, customer management, and other aspects that complete the cycle of taking a vision and producing code that realizes it. Although now I am in management, I still keep my hands dirty as much as I can. When I can't manage to spend enough time coding at work, I log on to hackerrank to solve a programming challenge, learning new languages along the way.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+            {
+                "name": "GDG",
+                "description": "Google Developer Group Los Angeles",
+                "link": "https://developers.google.com/groups/directory/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/amahfouz"
+            }
         ]
     }
 }
